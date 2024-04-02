@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![w4t33r GitHub stats](https://github-readme-stats.vercel.app/api?username=w4t33r&hide=issues&show_icons=true&theme=dracula)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w4t33r&layout=compact)
 
 <!--
