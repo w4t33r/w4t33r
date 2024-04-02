@@ -1,9 +1,8 @@
-### Hi there 👋
-
 ![w4t33r GitHub stats](https://github-readme-stats.vercel.app/api?username=w4t33r&hide=issues&show_icons=true&theme=dracula)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<!--START_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=w4t33r)
-
+<!--END_SECTION:waka-->
 <!--
 **w4t33r/w4t33r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
