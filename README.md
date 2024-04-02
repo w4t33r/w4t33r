@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![w4t33r's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![w4t33r's GitHub stats](https://github-readme-stats.vercel.app/api?username=w4t33r&show_icons=true&theme=synthwave)
 <!--
 **w4t33r/w4t33r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
