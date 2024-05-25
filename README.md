@@ -1,4 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=w4t33r&hide=issues&show_icons=false&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w4t33r&hide=html,css&layout=compact)
 <!--END_SECTION:waka-->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
